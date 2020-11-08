@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFF</color>
+
+    <color name="startblue">#78cffd</color>
+    <color name="endblue">#00a7ff</color>
+    <color name="graylight">#e1e1e1</color>
+
+    <color name="colorLOrange">#FFC107</color>
+    <color name="colorPrimaryOrange">#FFA000</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccentLight">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="lightYellow">#ffcddb</color>
+
+    <color name="sendotp_grey">#636363</color>
+    <color name="sendotp_medium_grey">#B0B0B0</color>
+    <color name="sendotp_light_grey">#D9D9D9</color>
+</resources>
